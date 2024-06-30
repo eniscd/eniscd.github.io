@@ -1,5 +1,5 @@
 # plants8332.github.io
-**quick note: a way better version with asp.net will be released in the following days or perhaps weeks.**
+**quick note: the website doesnt work rn ill fix idk why tho**
 
 this is a portfolio website to showcase my projects in the future and with some details about me, futuring some links and stuff.
 
