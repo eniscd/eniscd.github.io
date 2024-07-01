@@ -1,0 +1,9 @@
+body{
+    background-image:url(back.png);
+    background-color:rgb(23 23 23);
+    font-family: "consolas";
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+} 
