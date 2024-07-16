@@ -1,2 +1,4 @@
-### Final Portfolio releasing really soon
-ill also publish my website i did for a friend of mine to github if i release the new version.
+### few things i gotta say
+i am no longer using this website, i will buy my own domain and vps (or maybe self hosting).
+
+i will make my newest portfolio open source soon.
